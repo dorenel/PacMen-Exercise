@@ -2,13 +2,13 @@
 # PacMen Exercise
 
 ## Description
-This page allows you to create multiple PacMans on the screen. Once all the PacMans are created, you can activate them to move around. The PacMans will also bounce when they reach the edges of the screen. 
+This page creates multiple PacMans on the screen. Once the PacMans are created, they can be activated to move around. The PacMans will also bounce when they reach the edges of the screen. 
 
 ## Execution
 1. Download all the files from the repository. 
-2. Load index.html from the browser.
+2. Open index.html from the browser.
 3. Click the `Add PacMan` button to add PacMans onto the screen.
-4. Click the `Start Game` button to watch the PacMans move and bounce around the screen.
+4. Click the `Start Game` button to activate the PacMans.
 
 ## Roadmap
 - Add variety to the color, size, and speed of the PacMans.
